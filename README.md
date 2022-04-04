@@ -25,7 +25,7 @@ Linked to the deployed app: [Budget Tracker](https://pure-hamlet-80114.herokuapp
 
 ### Screenshot
 
-![screenshot]()
+![screenshot](https://github.com/sajees89/budget-tracker/blob/main/public/img/budgetSS.png)
 
 ### Contact
 
