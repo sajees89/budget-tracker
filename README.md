@@ -29,4 +29,4 @@ Linked to the deployed app: [Budget Tracker](https://pure-hamlet-80114.herokuapp
 
 ### Contact
 
-Contact me here on GitHub: http://github.com/sajees89
+[Saj Jeya on GitHub](http://github.com/sajees89)
