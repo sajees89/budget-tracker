@@ -2,8 +2,8 @@
 
 ## Description
 
-
-
+This week's challenge was to create a simple budget tracking app to allow for offline access and functionality. The user will be able to record expenses and deposits to their budget app with or without an internet connection. 
+Offline transactions will be updated to the app when the user returns back online.
 
 ### User Story
 
@@ -21,10 +21,12 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ### Website Link
 
-
-
+Linked to the deployed app: [Budget Tracker](https://pure-hamlet-80114.herokuapp.com/)
 
 ### Screenshot
 
+![screenshot]()
 
 ### Contact
+
+Contact me here on GitHub: http://github.com/sajees89
